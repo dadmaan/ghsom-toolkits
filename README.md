@@ -289,10 +289,6 @@ plot_growth_timeline(training_history)
 - ⬜ Network graph layouts
 - ⬜ Jupyter notebook integration
 
-## Related Projects
-
-- [ghsom-py](https://github.com/dadmaan/ghsom-py) - Core GHSOM implementation
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -310,24 +306,14 @@ If you use GHSOM Toolkits in your research, please cite:
 }
 ```
 
-And the original GHSOM paper:
-
-```bibtex
-@inproceedings{rauber2002growing,
-  title={The growing hierarchical self-organizing map: exploratory analysis of high-dimensional data},
-  author={Rauber, Andreas and Merkl, Dieter and Dittenbach, Michael},
-  booktitle={IEEE Transactions on Neural Networks},
-  volume={13},
-  number={6},
-  pages={1331--1341},
-  year={2002},
-  publisher={IEEE}
-}
-```
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Related Projects
+
+- [ghsom-py](https://github.com/dadmaan/ghsom-py) - Core GHSOM implementation
+- [aria](https://github.com/dadmaan/aria) - Multi-agent RL framework for user-centric music generation
 
 ## Acknowledgments
 
