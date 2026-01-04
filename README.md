@@ -1,8 +1,8 @@
 # GHSOM Toolkits
 
-[![PyPI version](https://img.shields.io/pypi/v/ghsom-toolkits.svg)](https://pypi.org/project/ghsom-toolkits/)
-[![Python versions](https://img.shields.io/pypi/pyversions/ghsom-toolkits.svg)](https://pypi.org/project/ghsom-toolkits/)
-[![License](https://img.shields.io/github/license/dadmaan/ghsom-toolkits.svg)](https://github.com/dadmaan/ghsom-toolkits/blob/main/LICENSE)
+<!-- [![PyPI version](https://img.shields.io/pypi/v/ghsom-toolkits.svg)](https://pypi.org/project/ghsom-toolkits/)
+[![Python versions](https://img.shields.io/pypi/pyversions/ghsom-toolkits.svg)](https://pypi.org/project/ghsom-toolkits/) -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Documentation](https://img.shields.io/badge/docs-mkdocs-blue.svg)](https://dadmaan.github.io/ghsom-toolkits/)
 [![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)](https://github.com/dadmaan/ghsom-toolkits)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
